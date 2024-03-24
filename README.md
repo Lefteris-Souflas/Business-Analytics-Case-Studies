@@ -7,7 +7,7 @@ The deliverable for this assignment is a single report containing answers to all
 
 ### Case Study 1: Market Basket Analysis (15%)
 #### Buy-books-on-line.com
-##### In Summary
+#### In Summary
 - **Problem**: Exploiting cross-selling opportunities for books related to "Business Analytics."
 - **Data Set**: "On_Line_Book_Store" containing 19,805 past sales transactions.
 - **Task**: Apply association rules to identify next best offer propositions.
@@ -17,7 +17,7 @@ The deliverable for this assignment is a single report containing answers to all
   3. Identify books to advertise based on association rules.
   4. Determine most frequently bought sets of books.
 
-##### In Detail
+#### In Detail
 Buy-books-on-line.com is an on line store that sells books about science and information technology. The store is very well known in the academic community so a lot of its customers are university professors and also librarians at universities buying on behalf of their institutions. A very popular category of the books that the store sells is that related to “Business Analytics”. In this category the store has a list of 56 books such as “Credit Risk Analytics”, “Marketing Analytics”, “Analytics at Work” etc. The past year 1,896 customers have bought at least one book that belongs to the “Business Analytics” category i.e. at least one of the 56 books.
 The sales department of the store wants to exploit cross selling opportunities so as to sell as many books as possible. The optimal way to achieve this, is to do wise next best offer propositions to its customers by applying associations rules. The analytics department of the store has collected a data set with 19,805 past sales transactions related to the “Business Analytics” book category. The data set is called “On_Line_Book_Store”.
 You are hired as an analyst by the on-line store to aid the analytics department in this market basket analysis initiative. After the data analysis you should write a report to the analytics team of the company (technical people) to explain them what you did, which method you used, how it works and what were your results. As already said the report should contain an executive summary in a business format. Use as minimum support level the 0.05 and as minimum confidence level the 0.1. Also set the maximum number of items in a rule equal to 3 (three) (in the interface this option is referred erroneously as minimum number of items in a rule). Save the rules table in the CASUSER library with the title MBA_Results. In the main body of the report you should answer the following questions:
