@@ -104,6 +104,6 @@ In order to answer the final three questions, do the following: Select the Score
 19) What is the biggest probability of being fraudulent assigned to a claim? What is the smallest one? This part accounts for 2.5% of the case study’s mark.
 20) Check the claims with PolicyID= 15 and PolicyID=107. Based on which column of the score data set and why the software assigns 1 / 0 to these two claims i.e. predicts that they will be fraudulent/ non - fraudulent? This part accounts for 2.5% of the case study’s mark.
 
-Data Dictionary for Historical_Claims_Final Data Set
+**Data Dictionary for Historical_Claims_Final Data Set**
 
 ![Screenshot 2024-03-24 203505](https://github.com/CodeNinjaTech/Business-Analytics-Case-Studies/assets/143879796/fcb17646-5c6b-40f0-989a-cc5919bcf55e)
