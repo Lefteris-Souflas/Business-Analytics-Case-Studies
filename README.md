@@ -1,5 +1,7 @@
 ## Business Analytics Case Studies
 
+Assignment 3 for the Analytics Practicum I Course of AUEB's MSc in Business Analytics.
+
 This assignment consists of three case studies, covering market basket analysis (association rules), customer segmentation (clustering), and campaign management (customer response model). Each case study contributes to a portion of the overall grade, with the first case study accounting for 15%, the second for 25%, and the third for 60%. Answers to the questions must be provided using **SAS Visual Data Mining and Machine Learning** on **SAS Viya** in order to explore and analyze the given data.
 
 ### Deliverable
